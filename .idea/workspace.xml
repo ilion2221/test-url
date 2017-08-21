@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c6b35fc-41f9-48df-98a6-89cb4c4a4cd7" name="Default" comment="" />
+    <list default="true" id="8c6b35fc-41f9-48df-98a6-89cb4c4a4cd7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +19,15 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="72" column="41" lean-forward="false" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+            <state relative-caret-position="323">
+              <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
               <folding>
-                <marker date="1503271634614" expanded="true" signature="2871:2939" ph="INSERT INTO parser... " />
-                <marker date="1503271634614" expanded="true" signature="2871:2948" ph="INSERT INTO portfolio... " />
-                <marker date="1503271634614" expanded="true" signature="2871:2954" ph="INSERT INTO parser... " />
-                <marker date="1503271634614" expanded="true" signature="2871:2962" ph="INSERT INTO portfolio... " />
-                <marker date="1503271634614" expanded="true" signature="2871:2964" ph="INSERT INTO portfolio... " />
-                <marker date="1503271634614" expanded="true" signature="3032:3087" ph="..." />
+                <marker date="1503313075104" expanded="true" signature="2872:2940" ph="INSERT INTO parser... " />
+                <marker date="1503313075104" expanded="true" signature="2872:2949" ph="INSERT INTO portfolio... " />
+                <marker date="1503313075104" expanded="true" signature="2872:2955" ph="INSERT INTO parser... " />
+                <marker date="1503313075104" expanded="true" signature="2872:2963" ph="INSERT INTO portfolio... " />
+                <marker date="1503313075104" expanded="true" signature="2872:2965" ph="INSERT INTO portfolio... " />
+                <marker date="1503313075104" expanded="true" signature="3033:3088" ph="..." />
               </folding>
             </state>
           </provider>
@@ -71,6 +75,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -93,6 +100,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -234,23 +242,25 @@
       <workItem from="1503145616818" duration="7753000" />
       <workItem from="1503252213665" duration="9205000" />
       <workItem from="1503305123638" duration="516000" />
-      <workItem from="1503311583881" duration="21000" />
+      <workItem from="1503311583881" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17495000" />
+    <option name="totallyTimeSpent" value="18297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3161876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3161876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -259,7 +269,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -281,12 +290,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503271634614" expanded="true" signature="2871:2939" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2948" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2954" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2962" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2964" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="3032:3087" ph="..." />
+            <marker date="1503313075104" expanded="true" signature="2872:2940" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2949" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2955" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2963" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2965" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="3033:3088" ph="..." />
           </folding>
         </state>
       </provider>
@@ -328,12 +337,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503271634614" expanded="true" signature="2871:2939" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2948" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2954" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2962" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2964" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="3032:3087" ph="..." />
+            <marker date="1503313075104" expanded="true" signature="2872:2940" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2949" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2955" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2963" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2965" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="3033:3088" ph="..." />
           </folding>
         </state>
       </provider>
@@ -359,12 +368,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503271634614" expanded="true" signature="2871:2939" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2948" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2954" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2962" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2964" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="3032:3087" ph="..." />
+            <marker date="1503313075104" expanded="true" signature="2872:2940" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2949" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2955" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2963" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2965" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="3033:3088" ph="..." />
           </folding>
         </state>
       </provider>
@@ -404,15 +413,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="72" column="41" lean-forward="false" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        <state relative-caret-position="323">
+          <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
           <folding>
-            <marker date="1503271634614" expanded="true" signature="2871:2939" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2948" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2954" ph="INSERT INTO parser... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2962" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="2871:2964" ph="INSERT INTO portfolio... " />
-            <marker date="1503271634614" expanded="true" signature="3032:3087" ph="..." />
+            <marker date="1503313075104" expanded="true" signature="2872:2940" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2949" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2955" ph="INSERT INTO parser... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2963" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="2872:2965" ph="INSERT INTO portfolio... " />
+            <marker date="1503313075104" expanded="true" signature="3033:3088" ph="..." />
           </folding>
         </state>
       </provider>

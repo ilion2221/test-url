@@ -46,13 +46,13 @@
     <form action="" method="post">
         <table id="table_container">
             <tr>
-                <td width="100px" colspan="2"><strong>Название</strong></td>
+                <td width="100px" colspan="2"><strong>Введіть URL</strong></td>
 
             </tr>
         </table>
         <br/>
-        <input type="button" value="Добавить поле" id="add" onclick="return add_new_item();">
-        <input type="submit" value="Отправить">
+        <input type="button" value="Добавити поле" id="add" onclick="return add_new_item();">
+        <input type="submit" value="Парсинг">
 
     </form>
 
